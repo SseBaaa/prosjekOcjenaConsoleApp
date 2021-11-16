@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\bin\Debug\UvodniProjekt.exe.config
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\bin\Debug\UvodniProjekt.exe
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\bin\Debug\UvodniProjekt.pdb
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\obj\Debug\UvodniProjekt.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\obj\Debug\UvodniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\obj\Debug\UvodniProjekt.exe
+C:\Users\sebas\source\repos\UvodniProjekt\UvodniProjekt\obj\Debug\UvodniProjekt.pdb
